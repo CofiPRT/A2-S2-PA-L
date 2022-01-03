@@ -1,0 +1,32 @@
+=== ========== ===
+=== Problema 1 ===
+=== ========== ===
+
+Cale
+	./P1/src/
+
+Este prezent un Makefile cu reguli de build, clean si run.
+
+Programul asteapta input de la STDIN.
+
+'make run' ruleaza normal, asteptand input de la tastatura
+
+Este posibila introducerea unui input in fisierul 'in' din acelasi
+director si rularea comenzii 'make run_file'
+
+Output-ul se afiseaza la STDOUT
+
+=== ===== ===
+=== Bonus ===
+=== ===== ===
+
+Cale
+	./Bonus/src/
+
+Este prezent un Makefile cu reguli de build, clean si run.
+
+Programul nu are nevoie de input de la STDIN.
+
+Se poate folosi 'make run'.
+
+Output-ul se afiseaza la STDOUT.

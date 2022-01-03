@@ -1,0 +1,32 @@
+Am si bonus in java/bonus/
+Este inclus si Makefile in director (cu reguli de make, run si clean)
+
+Pentru input dintr-un fisier se poate scrie in fisierul "in" si rula comanda
+"make run_file"
+
+Tin sa precizez ca l-am facut sa functioneze si pentru formatul de input:
+
+#
+####
+####
+####
+####
+# #
+
+cat si pentru
+
+#
+# # # #
+# # # #
+# # # #
+# # # #
+# #
+
+(Sunt diferente de genul in testele de pe hackerrank)
+
+
+Daca nu exista path, returneaza -1
+
+Input: STDIN
+Output: STDOUT
+(Nu au fost mentionate alte precizari legate de acest aspect)

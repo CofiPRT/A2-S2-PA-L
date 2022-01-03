@@ -1,0 +1,11 @@
+BONUS
+	Am si bonus in
+		./java/bonus/src/
+
+	Include Makefile cu reguli de build (default), run si clean
+
+	Inputul poate fi scris in fisierul "in"
+
+	Outputul poate fi vazut in fisierul "out"
+		Mentionez ca prima linie reprezinta numarul de componente biconexe
+		ale grafului (dupa cum este precizat pe infoarena.ro)

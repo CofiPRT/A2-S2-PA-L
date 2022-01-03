@@ -1,0 +1,8 @@
+Am si bonus in
+	./java/bonus/
+
+Este inclus si Makefile in director (cu reguli de build, run si clean)
+
+Input-ul este introdus in fisierul "in" din acelasi director
+
+Output-ul va fi afisat in fisierul "out" din acelasi director

@@ -1,0 +1,30 @@
+Am si BONUS implementat in acelasi proiect ca cel pentru problema 1
+(cu Dijkstra)
+
+	./java/task-1/src/Main.java
+
+Pentru testarea lui, este necesara comutarea campului BONUS de la 'false' la
+'true'.
+
+Acesta poate fi gasit imediat ca field al clasei Main$Task.
+
+Output-ul pentru BONUS poate fi gasit in fisierul 'bonus' creat in proiect.
+
+Partea cu DP de la bonus vine de la faptul ca mi-am propus provocarea de a
+trece testele checker-ului in pofida timpului de executie crescut datorat
+scrierii. Am reusit in mare parte exceptand testul 9, care, cel mai probabil,
+are un drum mult prea lung pentru un anumit nod.
+
+
+
+Totodata, la problema a doua cu algoritmul lui Bellman-Ford
+	
+	./java/task-2/src/Main.java
+
+Este prezent, ca field al clasei Main$Task, campul 'USE_QUEUE'.
+
+Setat la 'true', se va folosi metoda 'getResultQueue' ce prezinta o
+implementare mai eficienta pentru problema, trecand toate testele.
+
+Setat la 'false', se foloseste algoritmul prezentat in laborator, prin metoda
+'getResult'.
